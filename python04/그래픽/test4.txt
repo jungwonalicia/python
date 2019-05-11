@@ -1,0 +1,10 @@
+apple
+banana
+water
+coffee
+juice
+kakao
+naver
+daum
+ms
+aws
